@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\bin\Debug\net6.0-windows\Zbirka Kviz Pitanja.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\bin\Debug\net6.0-windows\Zbirka Kviz Pitanja.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\bin\Debug\net6.0-windows\Zbirka Kviz Pitanja.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\bin\Debug\net6.0-windows\Zbirka Kviz Pitanja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\bin\Debug\net6.0-windows\Zbirka Kviz Pitanja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka_Kviz_Pitanja.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\refint\Zbirka Kviz Pitanja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\Zbirka Kviz Pitanja.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zbirka Kviz Pitanja\Zbirka Kviz Pitanja\obj\Debug\net6.0-windows\ref\Zbirka Kviz Pitanja.dll
