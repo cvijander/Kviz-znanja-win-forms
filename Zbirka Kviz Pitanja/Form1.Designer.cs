@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.gboxPocetnoLogovanje = new System.Windows.Forms.GroupBox();
             this.btnPredjiNaPitanja = new System.Windows.Forms.Button();
             this.txtPrezime = new System.Windows.Forms.TextBox();
@@ -65,6 +66,7 @@
             this.grbOdgovori = new System.Windows.Forms.GroupBox();
             this.btnIzadji = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.gboxPocetnoLogovanje.SuspendLayout();
             this.gboxPitanje1.SuspendLayout();
             this.gboxPitanje2.SuspendLayout();
@@ -463,6 +465,10 @@
             this.label7.Size = new System.Drawing.Size(0, 15);
             this.label7.TabIndex = 0;
             // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -532,5 +538,6 @@
         private GroupBox grbOdgovori;
         private Button btnIzadji;
         private Label label7;
+        private System.Windows.Forms.Timer timer1;
     }
 }
